@@ -1,12 +1,55 @@
-# 💫 About Me:
-🔭 I’m currently working on Building scalable full-stack web and mobile applications, including service-based platforms and real-world business solutions from concept to deployment.<br><br>👯 I’m looking to collaborate on Startup products, SaaS platforms, innovative web/mobile applications, and projects that require strong full stack architecture and performance optimization.<br><br>🤝 I’m looking for help with system architecture at scale, advanced cloud deployment, and improving production-level optimization and DevOps workflows.<br><br>🌱 I’m currently learning Advanced Flutter development, scalable backend architecture, system design patterns, and performance optimization for high-traffic applications.<br><br>💬 Ask me about Full stack development, React & Node.js applications, REST API design, mobile app development, and building complete projects from idea to deployment.<br><br>⚡ Fun fact I believe the best way to learn technology is by building real products that solve real problems — not just tutorials.
+# 💫 About Me
 
+👨‍💻 **Founder & CEO at [Compiled Tech](https://compiledtech.io)** — a software, web and AI
+development studio. I lead product and engineering, and build web, mobile, SaaS and AI
+systems from first call to deployment.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ubaid_edits63) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ubaid1525) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ubaidullahakram1531@gmail.com) 
+🔭 Currently building scalable full-stack applications: SaaS platforms, e-commerce
+systems, and AI automation for startups and growing teams.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+💬 Ask me about full-stack architecture (Next.js, React, TypeScript, Node.js, Laravel),
+mobile apps (Flutter, React Native), REST API design, PostgreSQL and MongoDB, AI
+chatbots and automation, or taking a product from idea to production.
+
+🌱 Currently going deeper on system design at scale, cloud deployment (Docker,
+Google Cloud, Kubernetes), and production performance optimization.
+
+👯 Open to collaborating on SaaS products, AI-powered tools, and projects that need
+solid architecture from someone who ships.
+
+⚡ I believe the best way to learn technology is to build real products that solve real
+problems — that's how Compiled Tech started.
+
+---
+
+## 🛠 Tech I work with
+
+**Frontend**
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Angular` `Framer Motion`
+
+**Backend**
+`Node.js` `Laravel` `REST APIs` `PostgreSQL` `MongoDB` `MySQL` `Redis`
+
+**Mobile**
+`Flutter` `React Native` `Dart`
+
+**AI & Automation**
+`OpenAI` `LangChain` `RAG` `AI Agents` `Document AI` `Hugging Face` `scikit-learn`
+
+**Infra & Tooling**
+`Docker` `Google Cloud` `Kubernetes` `Git` `Supabase` `Stripe`
+
+---
+
+## 📌 What we build
+
+- **Web & mobile apps** — websites, web applications, iOS/Android apps
+- **SaaS & custom software** — scalable products and internal business platforms
+- **E-commerce** — online stores, payments, order management
+- **AI** — chatbots, document processing, automation workflows and agents
+
+🌐 [compiledtech.io](https://compiledtech.io) · ✉️ [contact@compiledtech.io](mailto:contact@compiledtech.io)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ubaid123678&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Ubaid123678&theme=dark&hide_border=false)<br/>
